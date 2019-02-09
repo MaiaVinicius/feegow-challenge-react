@@ -4,28 +4,6 @@ Esse é um teste focado em estrutuda de código, e conhecimentos de design. O ob
 
 ## Apresentação do problema
 
-A clínica _Exemplo_ precisa exibir a listagem de seus médicos separados por especialidade em seu site para que seus pacientes tenham acesso. Essa clínica utiliza o Feegow que possui toda a api necessária para isso. 
-Link da documentação: https://clinic.feegow.com.br/components/public/api/documentation 
-
-  1- A tela inicial deve ser um SELECT contendo a listagem de todas as especialidades que a clínica trabalha (método na documentação: ``GET /specialties/list``). 
-  
-  ![Exemplo do SELECT](https://image.prntscr.com/image/krKCLaZGT1O3rf4h4ETLow.png)
-  
-  
-  2- Quando o usuário escolhe uma especialidade, é executado um AJAX para buscar os profissionais que possuem aquela especialidade e exibido em tela (método na documentação: ``GET /professional/list``). 
-
-  ![Exemplo do SELECT](https://image.prntscr.com/image/v4cm7l99TOuvcyhHuIgaJw.png)
-
-  3- Quando o usuário clica em "AGENDAR", será exibido um formulário que o usuário irá preencher e clicar em "ENVIAR".
-  
-  ![Exemplo do SELECT](https://image.prntscr.com/image/w34r0YIUQsmlJcq7DcaIQA.png)
-  
-  4- Quando o usuário enviar, deverá enviar o formulário por AJAX e salvar todas as informações em um banco de dados relacional contendo: **specialty_id, professional_id, name, cpf, source_id (GET /patient/list-sources), birthdate e date_time**.
-      
-  Obs: A listagem do campo "Como conheceu" deve vir da api (método ``GET /patient/list-sources`` )
-  
-  5- Após salvar as informações exibir uma informação ao usuário que os dados foram salvos.
-
 
 ## Tecnologias usadas
 
@@ -49,6 +27,8 @@ Caso opte por fazer um Pull-Request, deixe ele explicativo apontando tudo que pr
 - Aproveite os recursos das ferramentas que você está usando. Diversifique e mostre que você domina cada uma delas.
 - Tente escrever seu codigo o mais claro e limpo possível. Código deve ser legível assim como qualquer texto dissertativo.
 - Se destaque mostrando algo interessante e surpreendente. Isso sempre fará diferença.
+
+Obs: Suas habilidades com Design serão avaliadas.
 
 Qualquer dúvida técnica, envie uma mensagem para viniciusmaia.tx@gmail.com.
 
