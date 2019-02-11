@@ -1,9 +1,28 @@
 # Feegow Challenge - React Native
 
-Esse é um teste focado em estrutuda de código, e conhecimentos de design. O objetivo é avaliar sua experiênica em escrever código de fácil manutenção, baixo acoplamento, e alta coesão.
+Esse é um teste focado em estrutuda de código, e conhecimentos de design. O objetivo é avaliar sua experiênica em escrever código de fácil manutenção e boas habilidades em desenvolvimento de telas para mobile.
 
 ## Apresentação do problema
 
+Uma clínica precisa criar um aplicativo (preferencialmente para ios) para listar os médicos por especialidade. Essa clínica utiliza o Feegow que possui toda a api necessária para isso. Link da documentação: https://clinic.feegow.com.br/components/public/api/documentation.
+
+Foi montado um protótipo das telas para demonstrar como o App funcionará:
+
+1- Tela inicial contendo um rodapé, a logo da clínica etc.
+
+![Img 1](https://image.prntscr.com/image/GQje3GIqSoCn71_8GG1cIg.png "Img 1")
+
+2- O paciente pode escolher a especialidade desejada (método na documentação: `GET /specialties/list`).
+ 
+![Img 2](https://image.prntscr.com/image/psvFBx14R5GxsJA3-euYsw.png "Img 3")
+
+3- Quando seleciona a especialidade é carregado logo abaixo os médicos daquela especialidade (método na documentação: `GET /professional/list`).
+
+![Img 3](https://image.prntscr.com/image/oDI7JRRXTTWuoPV1E70t6Q.png "Img 3")
+
+_Obs1: Sinta-se a vontade para alterar as telas caso tenha alguma ideia diferente mas desde que atenda a necessidade da clínica._
+
+_Obs2: Você pode utilizar qualquer logo dessa clínica de exemplo._
 
 
 ## Tecnologias usadas
@@ -12,6 +31,7 @@ Os pré-requisitos para a aplicação:
 
 - Use o React Native para criar as telas do App.
 - Documentação sucinta e explicativa de como rodar seu código.
+- Consumo de API Rest - Com Javascript
 
 ## Avaliação
 
