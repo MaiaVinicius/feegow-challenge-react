@@ -20,8 +20,8 @@ Foi montado um protótipo das telas para demonstrar como o App funcionará:
 
 ![Img 3](https://image.prntscr.com/image/oDI7JRRXTTWuoPV1E70t6Q.png "Img 3")
 
-_Obs1: Sinta-se a vontade para alterar as telas caso tenha alguma ideia diferente mas desde que atenda a necessidade da clínica._
 
+_Obs1: Sinta-se a vontade para alterar as telas caso tenha alguma ideia diferente mas desde que atenda a necessidade da clínica._
 _Obs2: Você pode utilizar qualquer logo dessa clínica de exemplo._
 
 
