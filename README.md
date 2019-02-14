@@ -2,6 +2,7 @@
 
 Esse é um teste focado em estrutuda de código, e conhecimentos de design. O objetivo é avaliar sua experiênica em escrever código de fácil manutenção e boas habilidades em desenvolvimento de telas para mobile.
 
+
 ## Apresentação do problema
 
 Uma clínica precisa criar um aplicativo (preferencialmente para ios) para listar os médicos por especialidade. Essa clínica utiliza o Feegow que possui toda a api necessária para isso. Link da documentação: https://clinic.feegow.com.br/components/public/api/documentation.
