@@ -34,6 +34,15 @@ Os pré-requisitos para a aplicação:
 - Documentação sucinta e explicativa de como rodar seu código.
 - Consumo de API Rest - Com Javascript
 
+
+## O que gostaríamos de ver
+
+Redux
+React Navigation
+Testes com Jest
+Boa organização de código
+
+
 ## Avaliação
 
 Para nos enviar seu código, você poderá escolher as 3 opções abaixo:
