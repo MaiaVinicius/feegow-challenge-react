@@ -37,10 +37,10 @@ Os pré-requisitos para a aplicação:
 
 ## O que gostaríamos de ver
 
-Redux
-React Navigation
-Testes com Jest
-Boa organização de código
+- Redux
+- React Navigation
+- Testes com Jest
+- Boa organização de código
 
 
 ## Avaliação
