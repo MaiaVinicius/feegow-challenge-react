@@ -5,7 +5,7 @@ Esse é um teste focado em estrutuda de código, e conhecimentos de design. O ob
 
 ## Apresentação do problema
 
-Uma clínica precisa criar um aplicativo (preferencialmente para ios) para listar os médicos por especialidade. Essa clínica utiliza o Feegow que possui toda a api necessária para isso. Link da documentação: https://clinic.feegow.com.br/components/public/api/documentation.
+Uma clínica precisa criar um aplicativo (preferencialmente para ios) para listar os médicos por especialidade. Essa clínica utiliza o Feegow que possui toda a api necessária para isso. Link da documentação: https://clinic.feegow.com.br/components/public/api/documentation ou https://github.com/feegow/api-docs.
 
 Foi montado um protótipo das telas para demonstrar como o App funcionará:
 
