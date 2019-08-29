@@ -2,7 +2,7 @@
 
 Instalar a expo-cli globalmente
 
-\$ npm install -g expo
+\$ npm install expo-cli --global
 
 Instalar as dependências do projeto
 
@@ -10,4 +10,4 @@ Instalar as dependências do projeto
 
 Rodar
 
-\$ expo run
+\$ expo start
