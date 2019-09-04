@@ -1,0 +1,23 @@
+{
+  "name": "feegow",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
+    "axios": "0.19.0",
+    "react-dom": "16.3.0",
+    "react-native-paper": "2.16.0",
+    "react-redux": "7.1.1",
+    "redux": "4.0.4",
+    "redux-saga": "1.0.5",
+    "styled-components": "4.3.2"
+  },
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
